@@ -19,7 +19,6 @@ export default function Home() {
 					<AboutSection />
 					<FAQPage />
 					<Sponsors />
-					<TeamComponent />
 				</div>
 				<Footer />
 				{/* Other components and elements */}

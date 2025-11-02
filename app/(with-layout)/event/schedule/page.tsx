@@ -1,6 +1,5 @@
 "use client";
 
-import NavBar from "@/components/nav-bar/nav-bar";
 import "@/app/globals.css";
 import { useState, useEffect } from "react";
 import type { Event } from "@/data/schedule";
@@ -101,7 +100,6 @@ export default function Page() {
 
 	return (
 		<div className="flex flex-col w-full h-fit min-h-screen items-center justify-center">
-			<NavBar showOnScroll={false} />
 			<div className="w-11/12 desktop:w-2/3 flex-grow flex-shrink basis-auto mt-28 desktop:mt-16" data-testid="schedule-container">
 				{/*<div className="flex w-full items-center justify-center">
 					<HackRPILink
