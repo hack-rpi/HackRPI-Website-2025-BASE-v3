@@ -11,7 +11,6 @@ import {
 } from "@/data/schedule";
 
 import Schedule from "@/components/schedule/schedule";
-import HackRPILink from "@/components/themed-components/hackrpi-link";
 import scheduleData from "@/data/scheduleData.json";
 
 type RawEvent = {
