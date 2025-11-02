@@ -18,7 +18,7 @@ import ugly_code_prize from "@/public/prizes/ugly_code.png";
 //import databricks from "@/public/prizes/databricks.webp";
 import hardware_prize from "@/public/prizes/hardwareTrack.webp";
 import golf_prize from "@/public/prizes/golf.jpg";
-import machine_learning_prize from "@/public/prizes/machine_learning_track (1).png";
+import machine_learning_prize from "@/public/prizes/machine_learning_track.png";
 import healthcare_prize from "@/public/prizes/stethoscope.png";
 
 import { StaticImageData } from "next/image";
