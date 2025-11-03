@@ -69,35 +69,35 @@ export const majorPrizes: Prize[] = [
 export const minorPrizes: Prize[] = [
 	{
 		name: "Best Use of AI",
-		amount: "Air Fryer",
+		amount: "Air Fryers",
 		description:
 			"Ready to implement ChatGPT, Gemeni, Claude or another AI into your project? The winner of this prize best implements an external AI model into their project.",
 		imagePath: ai_prize,
 	},
 	{
 		name: "Best Data Science Hack",
-		amount: "Amazon Echo Dot",
+		amount: "Amazon Echo Dots",
 		description:
 			"Crunch those numbers! Given to the project that uses data science to unravel the mysteries of city living, driving decisions with insightful analytics.",
 		imagePath: data_science_prize,
 	},
 	{
 		name: "Best First Time Hack",
-		amount: "Lego Set",
+		amount: "Lego Sets",
 		description:
 			"Newbies unite! Awarded to the top project by first-time hackers that addresses urban challenges, showing off their fresh creativity and hard work.",
 		imagePath: beginner_prize,
 	},
 	{
 		name: "Best Mobile Hack",
-		amount: "Portable Charger",
+		amount: "Portable Chargers",
 		description:
 			"Got an app for that? Recognizes the project that delivers the slickest, most useful mobile application for folks in a retro (or modern) world.",
 		imagePath: mobile_prize,
 	},
 	{
 		name: "Best Hardware Hack",
-		amount: "Amazon Fire stick",
+		amount: "Amazon Fire sticks",
 		description:
 			"Are you more of a hardware person? If you are, then this track is for you - blow everyone away with technology that moves beyond just a screen.",
 		imagePath: hardware_prize,
