@@ -69,42 +69,42 @@ export const majorPrizes: Prize[] = [
 export const minorPrizes: Prize[] = [
 	{
 		name: "Best Use of AI",
-		amount: "Air Fryer ($180 Value)",
+		amount: "Air Fryer",
 		description:
 			"Ready to implement ChatGPT, Gemeni, Claude or another AI into your project? The winner of this prize best implements an external AI model into their project.",
 		imagePath: ai_prize,
 	},
 	{
 		name: "Best Data Science Hack",
-		amount: "Amazon Echo Dot ($200 Value)",
+		amount: "Amazon Echo Dot",
 		description:
 			"Crunch those numbers! Given to the project that uses data science to unravel the mysteries of city living, driving decisions with insightful analytics.",
 		imagePath: data_science_prize,
 	},
 	{
 		name: "Best First Time Hack",
-		amount: "Lego Set ($140 Value)",
+		amount: "Lego Set",
 		description:
 			"Newbies unite! Awarded to the top project by first-time hackers that addresses urban challenges, showing off their fresh creativity and hard work.",
 		imagePath: beginner_prize,
 	},
 	{
 		name: "Best Mobile Hack",
-		amount: "Portable Charger ($80 Value)",
+		amount: "Portable Charger",
 		description:
 			"Got an app for that? Recognizes the project that delivers the slickest, most useful mobile application for folks in a retro (or modern) world.",
 		imagePath: mobile_prize,
 	},
 	{
 		name: "Best Hardware Hack",
-		amount: "Amazon Fire stick ($160 Value)",
+		amount: "Amazon Fire stick",
 		description:
 			"Are you more of a hardware person? If you are, then this track is for you - blow everyone away with technology that moves beyond just a screen.",
 		imagePath: hardware_prize,
 	},
 	{
 		name: "Best Quantum Computing Hack",
-		amount: "JBL Speakers ($80 Value)",
+		amount: "JBL Speakers",
 		description:
 			"Entangle some qubits and blow our minds! This prize celebrates the project that uses quantum computing to solve urban problems, proving that the future really is now (and at RPI!).",
 		imagePath: quantum_prize,
